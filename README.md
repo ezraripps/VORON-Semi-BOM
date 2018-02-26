@@ -21,9 +21,10 @@ To cover X and Y use this equation,`Rail length in mm / 12) +5` Do it once for e
 |F623zz Flanged Bearings|<50?||[Ebay USA](https://www.ebay.com/itm/10-x-F623zz-Mini-Metal-Double-Shielded-Flanged-Ball-Bearings-3mm-x-10mm-x-4mm-/162442970953)
 |5mm x 45mm Drive Shaft	|1|Used in Mobius extruder, NEEDS the milled flats (Can order off [Amazon](http://amzn.to/2zps8nq) then cut down and put the flats in yourself)|[Misumi US](https://us.misumi-ec.com/vona2/detail/110302634310/?HissuCode=SFJ5-45-A13-E0-WFC7&PNSearch=SFJ5-45-A13-E0-WFC7&KWSearch=SFJ5-45-WFC7-A13-E0&searchFlow=results2type)
 |M5 washer|2?|Used in Mobius|[Amazon](https://amazon.com/dp/B015A39UDY/) ?
-|M3 vibration dampeners (Quadcopter shock balls)|need exact?|Used in Mobius|[Amazon](https://www.amazon.com/dp/B071RP443J)
+|M3 washer|8|Used in the toothed idlers
+|M3 vibration dampeners (Quadcopter shock balls)|32 in total, get some spares|Used in Mobius, Z-Drives and AB-Drives|[Amazon](https://www.amazon.com/dp/B071RP443J)
 |MK8 Extruder Drive Gear|1|Can use any 8mm drive gear with a 5mm bore|[Amazon](https://www.amazon.com/dp/B00THZK97I)
-|110-2GT 6mm Belt Loop|1|Used in Mobius|[Amazon (10 pack)](https://www.amazon.com/dp/B014SSZ3EM)|
+|110-2GT 6mm Belt Loop|5|Used in Mobius and Z-Drives|[Amazon (10 pack)](https://www.amazon.com/dp/B014SSZ3EM)|
 |625 Bearing|2|Used in Mobius|[Amazon](https://www.amazon.com/dp/B071RXC7FV)
 |688 Bearing|1|Used in Mobius|[Amazon](https://www.amazon.com/dp/B00ZVF8GZK)
 |Spacers|4|5/16" OD, 0.192" ID, 3/16" Length, Needed between 2020 and bed|[Amazon](https://amazon.com/dp/B009YKYZ7Q)
@@ -59,8 +60,9 @@ button head screw|m5|.8mm|30mm|100|100|$12.75|$12.75|91239A236|100|$10.00|$10.00
 |PL-08N 8mm|1|Proximity sensor to level bed|[Aliexpress](https://www.aliexpress.com/item/PL-08N-8mm-sensing-DC-NPN-NO-Cube-shell-inductive-Screen-shield-type-proximity-switch-LP08/32803898660.html)
 |Heated Bed|1|Get at least 50mm smaller than plate size (350mm plate = 300mm heater)|[Amazon](https://www.amazon.com/KEENOVO/b/ref=w_bl_hsx_s_hi_web_7648421011?ie=UTF8&node=7648421011&field-lbr_brands_browse-bin=KEENOVO) [Ebay](https://www.ebay.com/usr/keenovo?_trksid=p2047675.l2559)
 |v6 Hotend|1|If you don't know what this is, cmon|[Real v6 EU](https://e3d-online.com/v6) [Real v6 USA](https://www.filastruder.com/products/all-metal-e3d-v6-hotend-assembled) [Clone USA](https://www.amazon.com/dp/B01ESTJUL8)
+|40mm fan|1|cooling the v6
 |Kw10 endstops|2|Endstops for X and Y axis?|[Ebay](https://www.ebay.com/itm/6-Pieces-KW10-Z2P-long-lever-17mm-n-c-n-o-limit-switch-micro-miniature-C30-/252979243362)
-|Blower Fans|2|?|[Amazon](https://amazon.com/dp/B078NJFM4Y)
+|Blower Fans|2|4010 12V or 24V depending on your selected voltage|[eBay](https://www.ebay.com/itm/40mm-12V-Blower-Cooling-Fan-4010-40x40x10mm-Reprap-3D-Printer-Extruder-for-PLA/222299547413?hash=item33c215e715:g:QxgAAOSwsW9Yz5dN)
 |Nema 17 Stepper Motors|7| 7 Is base, if you want to go dual extruders you will need 8, 84oz/in suggested|[Zyltech (ebay store)](https://www.ebay.com/itm/US-Ship-10pcs-Nema-17-Stepper-Motor-Bipolar-84oz-in-59Ncm-4-lead-3D-Printer-CNC-/231427537494) 
 |RAMPS 1.4 Kit|1|You need LCD, RAMPS, ARDUINO MEGA and all power cables|[Amazon](https://amazon.com/dp/B019TNELNU)
 |Ramps Expander|1|You need a stepper expander to add the 2 extra needed motors, you can also buy a second RAMPS and run both| [Reprap x2 Expander](https://www.reprap.me/stepper-expander-x2.html) [Reprap x3 Expander](https://www.reprap.me/stepper-expander-x3.html) Or buy one from [MZBot](http://mzbot.us) directly
