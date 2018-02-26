@@ -25,7 +25,7 @@ To cover X and Y use this equation,`Rail length in mm / 12) +5` Do it once for e
 |M3 vibration dampeners (Quadcopter shock balls)|32 in total, get some spares|Used in Mobius, Z-Drives and AB-Drives|[Amazon](https://www.amazon.com/dp/B071RP443J)
 |MK8 Extruder Drive Gear|1|Can use any 8mm drive gear with a 5mm bore|[Amazon](https://www.amazon.com/dp/B00THZK97I)
 |110-2GT 6mm Belt Loop|5|Used in Mobius and Z-Drives|[Amazon (10 pack)](https://www.amazon.com/dp/B014SSZ3EM)|
-|625 Bearing|2|Used in Mobius|[Amazon](https://www.amazon.com/dp/B071RXC7FV)
+|625 Bearing|10|Used in Mobius and Z-Drives|[Amazon](https://www.amazon.com/dp/B071RXC7FV)
 |688 Bearing|1|Used in Mobius|[Amazon](https://www.amazon.com/dp/B00ZVF8GZK)
 |Spacers|4|5/16" OD, 0.192" ID, 3/16" Length, Needed between 2020 and bed|[Amazon](https://amazon.com/dp/B009YKYZ7Q)
 |Angle Connectors|4 or 8| 4 needed to connect 2020 that hold bed to main frame, you will need +4 extra if you have a height of 300mm(?) or more|[Openbuilds](http://openbuildspartstore.com/black-angle-corner-connector/)
@@ -49,7 +49,7 @@ socket head screw|m3|.5mm|30mm|100|100|$15.07|$15.07|91290A130|100|$9.15|$9.15|[
 button head screw|m5|.8mm|10mm|100|100|$8.17|$8.17|91239A224|100|$6.32|$6.32|[13343](https://www.boltdepot.com/Metric_socket_button_head_Class_12.9_steel_black_oxide_finish_5mm_x_0.8mm.aspx?Selected=13343)
 button head screw|m5|.8mm|12mm|100|100|$8.36|$8.36|91239A228|100|$7.18|$7.18|[13344](https://www.boltdepot.com/Metric_socket_button_head_Class_12.9_steel_black_oxide_finish_5mm_x_0.8mm.aspx?Selected=13344)
 button head screw|m5|.8mm|16mm|100|100|$9.08|$9.08|91239A232|100|$7.50|$7.50|[13345](https://www.boltdepot.com/Metric_socket_button_head_Class_12.9_steel_black_oxide_finish_5mm_x_0.8mm.aspx?Selected=13345)
-button head screw|m5|.8mm|18mm|50|50|$6.41|$6.41|91239A241|100||$0.00	
+button head screw|m5|.8mm|18mm|50|50|$6.41|$6.41|91239A241|100||$0.00
 button head screw|m5|.8mm|20mm|100|100||||100|$8.25|$8.25|[13346](https://www.boltdepot.com/Metric_socket_button_head_Class_12.9_steel_black_oxide_finish_5mm_x_0.8mm.aspx?Selected=13346)
 button head screw|m5|.8mm|30mm|100|100|$12.75|$12.75|91239A236|100|$10.00|$10.00|[13348](https://www.boltdepot.com/Metric_socket_button_head_Class_12.9_steel_black_oxide_finish_5mm_x_0.8mm.aspx?Selected=13348)
 |||||||$120.07||||$88.47	
@@ -75,7 +75,7 @@ button head screw|m5|.8mm|30mm|100|100|$12.75|$12.75|91239A236|100|$10.00|$10.00
 ### Stepper Driver comparison
 **You will need 1 for each motor**
 
-|Driver|noise|Cost
+|Driver|Noise|Cost
 |-|-|-|
 |A4988|Very Loud|2$/ea
 |TMC2100|Pretty Quiet|~$10/ea
