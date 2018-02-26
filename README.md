@@ -5,9 +5,9 @@ For printed parts most people are using [eSUN ABS+](http://amazon.com/dp/B078T81
 ### Beltchain
 Here are the equations to calculate how many chain links you will need for each axis.
 
-To cover Z axis chain, use this equation, `Extrusion length(in MM)/12 + 7`
+To cover Z axis chain, use this equation, `Rail length(in MM)/12 + 7`
 
-To cover X and Y use this equation,`Extrusion length in mm / 12) +5` Do it once for each axis (X,Y)
+To cover X and Y use this equation,`Rail length in mm / 12) +5` Do it once for each axis (X,Y)
 ## Hardware
 |Part|Quantity|Info|Where to buy|
 |-------------|-------------|-----|-----|
