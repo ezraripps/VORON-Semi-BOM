@@ -19,7 +19,7 @@ To cover X and Y use this equation,`Rail length in mm / 12) +5` Do it once for e
 |40T GT2 Pulley 5mm bore|5|Belt Pulleys|[Aliexpress 10pcs](https://www.aliexpress.com/item/10pcs-New-GT2-Timing-Pulley-30-36-40-60-Tooth-Wheel-Bore-5mm-8mm-Aluminum-Gear/32822886417.html)
 |20T GT2 Pulley 5mm bore|11|Belt Pulleys|[Aliexpress 5pcs](https://www.aliexpress.com/item/5pcs-lot-3D-Printer-Parts-Accessory-GT2-20teeth-20-teeth-Bore-5mm-Timing-Alumium-Pulley/32784583648.html)
 |F623zz Flanged Bearings|<50?||[Ebay USA](https://www.ebay.com/itm/10-x-F623zz-Mini-Metal-Double-Shielded-Flanged-Ball-Bearings-3mm-x-10mm-x-4mm-/162442970953)
-|5mm x 45mm Drive Shaft	|1|Used in Mobius extruder, NEEDS the milled flats (Can order off [Amazon](http://amzn.to/2zps8nq) then cut down and put the flats in yourself)|[Misumi US](https://us.misumi-ec.com/vona2/detail/110302634310/?HissuCode=SFJ5-45-A13-E0-WFC7&PNSearch=SFJ5-45-A13-E0-WFC7&KWSearch=SFJ5-45-WFC7-A13-E0&searchFlow=results2type)
+|5mm x 45mm Drive Shaft	|5|Used in Mobius extruder, NEEDS the milled flats (Can order off [Amazon](http://amzn.to/2zps8nq) then cut down and put the flats in yourself)|[Misumi US](https://us.misumi-ec.com/vona2/detail/110302634310/?HissuCode=SFJ5-45-A13-E0-WFC7&PNSearch=SFJ5-45-A13-E0-WFC7&KWSearch=SFJ5-45-WFC7-A13-E0&searchFlow=results2type)
 |M5 washer|2?|Used in Mobius|[Amazon](https://amazon.com/dp/B015A39UDY/) ?
 |M3 washer|8|Used in the toothed idlers
 |M3 vibration dampeners (Quadcopter shock balls)|32 in total, get some spares|Used in Mobius, Z-Drives and AB-Drives|[Amazon](https://www.amazon.com/dp/B071RP443J)
