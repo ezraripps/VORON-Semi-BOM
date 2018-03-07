@@ -33,7 +33,7 @@ To cover X and Y use this equation,`Rail length in mm / 12) +5` Do it once for e
 |PEI Sheet|1|Get bigger than bed, then cut down|[Amazon](https://www.amazon.com/dp/B00CPRDDLY)
 |m3 T-Nuts|200|For connecting linear rails to extrusions|[Amazon 100pack](https://amazon.com/dp/B072MDV8XY)
 |m5 T-Nuts|200|For connecting corner cubes to extrusions|[Amazon 100pack](https://amazon.com/dp/B01FOC6A8E)
-|Bowden tueb coupler|1|For extruder drive|[Amazon](https://amazon.com/dp/B01KHN1HWY)
+|Bowden tube coupler|1|For extruder drive|[Amazon 1.75mm](https://amazon.com/dp/B01KHN1HWY)
 
 ## Screws
 
