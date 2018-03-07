@@ -1,3 +1,7 @@
+## Assembly
+
+All people have to go off-of for the time being is [these photos](https://drive.google.com/drive/folders/17B8Uz0KaBuZFyXscgn6P6LbGlgUiacoY) for refrence during the build.
+
 ## Printed Parts
 
 For printed parts most people are using [eSUN ABS+](http://amazon.com/dp/B078T81FGP) You will need about 2kg
