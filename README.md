@@ -33,6 +33,7 @@ To cover X and Y use this equation,`Rail length in mm / 12) +5` Do it once for e
 |PEI Sheet|1|Get bigger than bed, then cut down|[Amazon](https://www.amazon.com/dp/B00CPRDDLY)
 |m3 T-Nuts|200|For connecting linear rails to extrusions|[Amazon 100pack](https://amazon.com/dp/B072MDV8XY)
 |m5 T-Nuts|200|For connecting corner cubes to extrusions|[Amazon 100pack](https://amazon.com/dp/B01FOC6A8E)
+|Bowden tueb coupler|1|For extruder drive|[Amazon](https://amazon.com/dp/B01KHN1HWY)
 
 ## Screws
 
@@ -58,6 +59,7 @@ button head screw|m5|.8mm|30mm|100|100|$12.75|$12.75|91239A236|100|$10.00|$10.00
 |Part|Quantity|Info|Where to buy|
 |-------------|-------------|-----|-----|
 |PL-08N 8mm|1|Proximity sensor to level bed|[Aliexpress](https://www.aliexpress.com/item/PL-08N-8mm-sensing-DC-NPN-NO-Cube-shell-inductive-Screen-shield-type-proximity-switch-LP08/32803898660.html)
+|Z-15GS-B Switch|?|?|[Mouser](https://www.mouser.com/Search/Refine.aspx?Keyword=Z-15GS-B)
 |Heated Bed|1|Get at least 50mm smaller than plate size (350mm plate = 300mm heater)|[Amazon](https://www.amazon.com/KEENOVO/b/ref=w_bl_hsx_s_hi_web_7648421011?ie=UTF8&node=7648421011&field-lbr_brands_browse-bin=KEENOVO) [Ebay](https://www.ebay.com/usr/keenovo?_trksid=p2047675.l2559)
 |v6 Hotend|1|If you don't know what this is, cmon|[Real v6 EU](https://e3d-online.com/v6) [Real v6 USA](https://www.filastruder.com/products/all-metal-e3d-v6-hotend-assembled) [Clone USA](https://www.amazon.com/dp/B01ESTJUL8)
 |40mm fan|1|cooling the v6
